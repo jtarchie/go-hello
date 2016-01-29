@@ -1,5 +1,5 @@
 {
-	"ImportPath": "local/go-hello",
+	"ImportPath": "github.com/pawel2-grape/go-hello",
 	"GoVersion": "go1.5",
 	"Deps": []
 }
